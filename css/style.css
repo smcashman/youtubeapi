@@ -1,0 +1,37 @@
+#infosearch {
+	margin-bottom:2em;
+}
+
+.searchbox{
+	margin: 0 auto;
+	padding-left: 34em;
+}
+
+#instruct{
+	text-align: center;
+}
+
+.searchresults {
+	margin: 0 auto;
+	padding-left: 30em;
+}
+
+.title {
+	text-align: center;
+}
+
+#logo {
+	max-width: 10em;
+	max-height: 8em;
+}
+
+body {
+	background-color: #a3c2c2;
+	font-family: "Roberto Condensed", sans-serif;
+	color:#333333;
+}
+
+.videos {
+	text-decoration: none;
+	color:#333333;
+}
